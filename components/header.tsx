@@ -10,7 +10,7 @@ export function Header() {
             <div className="flex h-8 w-8 items-center justify-center rounded-md bg-accent">
               <span className="text-lg font-bold text-accent-foreground">DP</span>
             </div>
-            <span className="hidden text-lg font-semibold sm:inline-block">Dane Peralta</span>
+            <span className="hidden text-lg font-semibold sm:inline-block">Dane Peralta Development</span>
           </Link>
 
           <nav className="hidden items-center space-x-6 md:flex">
