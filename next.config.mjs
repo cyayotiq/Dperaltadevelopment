@@ -7,9 +7,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // If deploying to a subdirectory, uncomment and set your repository name:
-  // basePath: '/your-repo-name',
-  // trailingSlash: true,
+  basePath: '/Dperaltadevelopment',
+  trailingSlash: true,
 }
 
 export default nextConfig
